@@ -38,7 +38,7 @@ Adaptability | Empathy | Effective Communication | Teamwork | Critical Think
 
   
 📫 Let’s connect! 
-<a href="mailto:nahuelunda@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="frankmerlod" height="30" width="40" /></a>
+[Mail]<a href="mailto:nahuelunda@gmail.com" /></a>
 [LinkedIn](https://www.linkedin.com/in/nahuel-undabarrena/)
 
 
