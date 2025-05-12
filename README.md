@@ -38,8 +38,8 @@ Adaptability | Empathy | Effective Communication | Teamwork | Critical Think
 
   
 📫 Let’s connect! 
-nahuelunda@gmail.com
-[LinkedIn](https://www.linkedin.com/in/nahuel-undabarrena/)
+- nahuelunda@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/nahuel-undabarrena/)
 
 
 <!--horizontal divider(gradiant)-->
