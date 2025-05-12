@@ -3,12 +3,26 @@
 Welcome to my GitHub profile!  
 After starting my professional journey in the world of sports journalism, I discovered a deep passion for programming and data analysis. Since then, I’ve been actively training and developing technical skills to transition into the IT field, with a strong focus on data.
 
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+
 🎓 **Academic Background:**
 - Intensive Data Analytics Bootcamp (700+ hours)– Henry  
 - Diploma in Object-Oriented Programming with Java – UTN
 
 🔍 **What I do:**
 I help transform raw data into meaningful insights to support informed decision-making. I'm passionate about building dashboards, exploring large datasets, and turning complex data into clear, visual stories.
+
+🚀 **Featured Projects:**
+- *Professional NBA Analysis* – “NBAnalytics”  
+- *Strategic COVID-19 Analysis* – “BioGenesys”  
+- *Sales Performance & Recovery Analysis* – “Adventure Works Cycles”
+
+✨ **What sets me apart:**
+- 📊 I extract key insights and build interactive dashboards in Power BI to empower decision-making.
+- ⚡ I use Python and SQL to clean, analyze, and model data, streamlining business processes.    
+
+💡 **A quote I live by:**  
+  *“Information is the oil of the 21st century, and analytics is the combustion engine.” - Peter Sondergaard*
 
 🛠 **Technical Skills:**
 - **BI Tools:** Power BI, Excel, Google Spreadsheets
@@ -21,8 +35,10 @@ Adaptability | Empathy | Effective Communication | Teamwork | Critical Think
 
 🚀 I’m currently looking for my first professional opportunity in data analysis to continue growing and applying everything I’ve learned.
 
-Let’s connect!  
-📫 [LinkedIn](https://www.linkedin.com/in/nahuel-undabarrena/)
+  
+📫 Let’s connect! [LinkedIn](https://www.linkedin.com/in/nahuel-undabarrena/)
+
+
 
 <!--
 **NahuelUnda/NahuelUnda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
