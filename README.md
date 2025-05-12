@@ -14,9 +14,9 @@ After starting my professional journey in the world of sports journalism, I disc
 I help transform raw data into meaningful insights to support informed decision-making. I'm passionate about building dashboards, exploring large datasets, and turning complex data into clear, visual stories.
 
 🚀 **Featured Projects:**
-- *Professional NBA Analysis* – “NBAnalytics”  
-- *Strategic COVID-19 Analysis* – “BioGenesys”  
-- *Sales Performance & Recovery Analysis* – “Adventure Works Cycles”
+- *Professional NBA Analysis* – [“NBAnalytics”](https://github.com/NahuelUnda/NBAnalytics.git)
+- *Strategic COVID-19 Analysis* – [“BioGenesys”](https://github.com/NahuelUnda/Biogenesis.git)
+- *Sales Performance & Recovery Analysis* – [“Adventure Works Cycles”](https://github.com/NahuelUnda/AdventureWorksCycles.git)
 
 ✨ **What sets me apart:**
 - 📊 I extract key insights and build interactive dashboards in Power BI to empower decision-making.
