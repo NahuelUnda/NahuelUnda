@@ -36,6 +36,10 @@ Adaptability | Empathy | Effective Communication | Teamwork | Critical Think
 
 🚀 I’m currently looking for my first professional opportunity in data analysis to continue growing and applying everything I’ve learned.
 
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
   
 📫 Let’s connect! 
 - nahuelunda@gmail.com
