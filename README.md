@@ -3,7 +3,8 @@
 Welcome to my GitHub profile!  
 After starting my professional journey in the world of sports journalism, I discovered a deep passion for programming and data analysis. Since then, I’ve been actively training and developing technical skills to transition into the IT field, with a strong focus on data.
 
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 🎓 **Academic Background:**
 - Intensive Data Analytics Bootcamp (700+ hours)– Henry  
@@ -38,6 +39,9 @@ Adaptability | Empathy | Effective Communication | Teamwork | Critical Think
   
 📫 Let’s connect! [LinkedIn](https://www.linkedin.com/in/nahuel-undabarrena/)
 
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <!--
