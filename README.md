@@ -37,7 +37,9 @@ Adaptability | Empathy | Effective Communication | Teamwork | Critical Think
 🚀 I’m currently looking for my first professional opportunity in data analysis to continue growing and applying everything I’ve learned.
 
   
-📫 Let’s connect! [LinkedIn](https://www.linkedin.com/in/nahuel-undabarrena/)
+📫 Let’s connect! 
+<a href="mailto:nahuelunda@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="frankmerlod" height="30" width="40" /></a>
+[LinkedIn](https://www.linkedin.com/in/nahuel-undabarrena/)
 
 
 <!--horizontal divider(gradiant)-->
