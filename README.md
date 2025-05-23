@@ -40,7 +40,7 @@ Adaptability | Empathy | Effective Communication | Teamwork | Critical Think
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  
+ 
 📫 Let’s connect! 
 - nahuelunda@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/nahuel-undabarrena/)
