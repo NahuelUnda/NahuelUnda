@@ -1,4 +1,4 @@
-## Hi there 👋 It's me, Nahuel! — Data Analyst | Power BI | SQL | Python
+## Hi there 👋 It's me, Nahuel! — Data Analyst | Power BI | SQL | Python | DAX | Excel
 
 Welcome to my GitHub profile!   
 After starting my professional journey in the world of sports journalism, I discovered a deep passion for programming and data analysis. Since then, I’ve been actively training and developing technical skills to transition into the IT field, with a strong focus on data.
